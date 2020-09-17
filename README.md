@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **wxiaoqi/wxiaoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 谢谢你关注我，推荐关注我的公众号：cloud-platform 👋👋👋
+
+
+[![wxiaoqi's github stats](https://github-readme-stats.vercel.app/api?username=wxiaoqi)](https://github.com/wxiaoqi/Spring-Cloud-Platform)
