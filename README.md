@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 [![wxiaoqi's github stats](https://github-readme-stats.vercel.app/api?username=wxiaoqi)](https://github.com/wxiaoqi/Spring-Cloud-Platform)
+
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1020/173334_53541846_547642.png)
