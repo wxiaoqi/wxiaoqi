@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 
 [![wxiaoqi's github stats](https://github-readme-stats.vercel.app/api?username=wxiaoqi)](https://github.com/wxiaoqi/Spring-Cloud-Platform)
 
-
-<img width="858" alt="image" src="https://github.com/user-attachments/assets/38be28b5-9aa7-47c2-9de2-81464cfed45c">
-
